@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[691],{7200:function(e,t,l){l.r(t),l.d(t,{Head:function(){return a}});var n=l(7294);t.default=()=>n.createElement("main",null,n.createElement("h1",{className:"text-3xl font-bold underline"},"きょむやまのプログラミングブログ"));const a=()=>n.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-43fc3e533042c4d9d185.js.map
